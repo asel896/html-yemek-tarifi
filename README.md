@@ -9,12 +9,16 @@ Semantik HTML ile hazırlanmış sade bir brownie tarifi sayfası.
 </head>
 <body>
 
+
+    <!-- Sayfa basligi ve tanitim aciklamasini iceren kisim -->
     <header>
         <h1> ... Browni Tarifi...</h1>
         <p> <em> Cikolatali,nemli ve yogun kiva,li bir tatli ariyorsaniz dogru yerdesiniz. Brownie, davet sofralarinin vagecilmezi!</em></p>
     </header>
     
 
+
+    <!-- Tarifin kisi sayisi, hazirlik süresi, pisirme süresi ve yazar bilgisi -->
     <section>
         <p><strong>Tarif:</strong>Asel Ünlü</p>
         <p><strong>Kac Kisilik:</strong>6 kisilik</p>
@@ -23,8 +27,11 @@ Semantik HTML ile hazırlanmış sade bir brownie tarifi sayfası.
     </section>
 
 
-
+    <!-- Sayfanin ana icerik bölümü -->
     <main>
+
+
+        <!-- Malzeme listesinin yer aldigi bölüm -->
         <article>
             <h2>Browni Tarifi icin Malzemeler</h2>
             <ul>
@@ -40,6 +47,7 @@ Semantik HTML ile hazırlanmış sade bir brownie tarifi sayfası.
         </article>
 
 
+        <!-- Yapim adimlarinin yer aldigi bölüm -->
         <article>
             <h2>Brownie Nasıl Yapılır?</h2>
             <ol>
