@@ -1,2 +1,64 @@
 # html-yemek-tarifi
 Semantik HTML ile hazırlanmış sade bir brownie tarifi sayfası.
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BROWNI TARIFI</title>
+</head>
+<body>
+
+    <header>
+        <h1> ... Browni Tarifi...</h1>
+        <p> <em> Cikolatali,nemli ve yogun kiva,li bir tatli ariyorsaniz dogru yerdesiniz. Brownie, davet sofralarinin vagecilmezi!</em></p>
+    </header>
+    
+
+    <section>
+        <p><strong>Tarif:</strong>Asel Ünlü</p>
+        <p><strong>Kac Kisilik:</strong>6 kisilik</p>
+        <p><strong>Hazirlama Suresi:</strong>20 dakika</p>
+        <p><strong>Pisirme Suresi:</strong>25 dakika</p>
+    </section>
+
+
+
+    <main>
+        <article>
+            <h2>Browni Tarifi icin Malzemeler</h2>
+            <ul>
+                <li>200 gr bitter çikolata</li>
+                <li>150 gr tereyağı</li>
+                <li>3 adet yumurta</li>
+                <li>1 su bardağı toz şeker</li>
+                <li>1 su bardağı un</li>
+                <li>3 yemek kaşığı kakao</li>
+                <li>1 paket vanilin</li>
+                <li>1 tutam tuz</li>
+            </ul>
+        </article>
+
+
+        <article>
+            <h2>Brownie Nasıl Yapılır?</h2>
+            <ol>
+                <li>Bitter çikolata ve tereyağını benmari usulü eritin.</li>
+                <li>Yumurtaları ve şekeri ayrı bir kapta çırpın.</li>
+                <li>Çikolatalı karışımı yumurtalı karışıma yavaşça ekleyin.</li>
+                <li>Un, kakao, vanilin ve tuzu ekleyip karıştırın.</li>
+                <li>Karışımı yağlı kağıt serili fırın kabına dökün.</li>
+                <li>170 derece fırında 25 dakika kadar pişirin.</li>
+                <li>Soğuduktan sonra dilimleyin ve servis yapın.</li>
+            </ol>
+        </article>
+    </main>
+
+    <footer>
+        <p style="text-align: right;"><strong>Afiyet olsun</strong></p>
+    </footer>
+
+
+
+</body>
+</html>
